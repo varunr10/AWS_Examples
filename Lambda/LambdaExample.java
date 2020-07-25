@@ -1,4 +1,4 @@
-package com.awslambda.LambdaUsingJava;
+package com.lambdaexample;
 
 /* Handler in lambda syntax -->  packageName.className::methodName  */
 
