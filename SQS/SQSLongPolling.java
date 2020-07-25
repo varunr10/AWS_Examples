@@ -1,4 +1,4 @@
-package com.awslambda.LambdaUsingJava;
+package com.sqsexample;
 
 import com.amazonaws.services.sqs.AmazonSQS;
 import com.amazonaws.services.sqs.AmazonSQSClientBuilder;
