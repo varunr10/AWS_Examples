@@ -1,4 +1,4 @@
-package com.awslambda.LambdaUsingJava;
+package com.sqsexample;
 
 import java.util.List;
 
